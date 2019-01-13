@@ -3,11 +3,18 @@
   <head>
     <meta charset = "utf-8">
     <title>社会主义核心价值观编码器</title>
+    <script>
+      function notify(){
+      	alert("还没做");
+        event.preventDefault();
+      }
+    </script>
   </head>
   <body>
     <form method = "post">
       <input type = "text" name = "query" value = "输入需要编码的字段">
       <input type = "submit" value = "提交">
+      <button onClick = "notify()">解码</button>
     </form>
 <?php
 	function StrToBin($str){
