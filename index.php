@@ -65,7 +65,7 @@
             case 100:
             	echo "法治";
             	break;
-          	case 110:
+            case 110:
             	echo " ";
                 break;
         }
