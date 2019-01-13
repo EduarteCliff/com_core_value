@@ -327,7 +327,7 @@
 			<span class="focus-border"></span>
 		</div>
 		<br>
-		<button id="btn" data-sitekey="6LeR-4UUAAAAAFkkmoNN3zkPEyOPKh1Gq3fak9G8" data-callback="submit_to_encode" class="g-recaptcha ui-box top-leftToRight" style = "float:right;margin-right:10vw;width:12vw;">提交</button>
+		<button id="btn" data-sitekey="/*recaptcha key*/" data-callback="submit_to_encode" class="g-recaptcha ui-box top-leftToRight" style = "float:right;margin-right:10vw;width:12vw;">提交</button>
     </form>
     <br>
     <br>
