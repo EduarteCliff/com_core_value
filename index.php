@@ -438,5 +438,7 @@
 		});
 	</script>
     <center><p style="color:gray">Copyright &copy; 2018-2019 oxdl.cn by 看起来圆滚滚的方糖</p><a style="color:gray" href="https://github.com/EduarteCliff/com_core_value">GitHub</a></center>
+    <br><br>
+    <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/2.5/cn/88x31.png" /></a><br><br>本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/cn/">知识共享署名-非商业性使用-相同方式共享 2.5许可协议</a>进行许可。</center>
     </body>
 </html>
